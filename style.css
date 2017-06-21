@@ -1,8 +1,12 @@
+* {
+	text-align:center;
+}
+
 header {
 	color: darksalmon;
 }
 
-.paragraph2 {
+ul {
 	color: hotpink;
 	font-style: bold;
 }
